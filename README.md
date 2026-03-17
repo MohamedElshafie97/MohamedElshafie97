@@ -1,7 +1,7 @@
  Hey! Nice to see you.
 Welcome to my page!
 
-# Hi, I'm Mohamed Elshafie 👋
+# I'm Mohamed Elshafie 👋
 ### Senior Systems Engineer | Infrastructure Automation Specialist
 
 Experienced Systems Engineer with a focus on architecting high-availability infrastructure across **Linux/Windows Hybrid Environments**. I specialize in automating manual toil and building robust monitoring solutions.
