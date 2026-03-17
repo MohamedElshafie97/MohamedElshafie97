@@ -1,3 +1,6 @@
+ Hey! Nice to see you.
+Welcome to my page!
+
 # Hi, I'm Mohamed Elshafie 👋
 ### Senior Systems Engineer | Infrastructure Automation Specialist
 
