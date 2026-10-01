@@ -19,7 +19,7 @@ I look after the infrastructure that keeps a payments business running: Linux an
 
 ### Currently learning
 
-Kubernetes (working toward the CKA) and CI/CD with GitHub Actions. I'm building these in a home lab before claiming them as experience.
+Kubernetes administration (working toward the CKA). I've worked on Kubernetes monitoring alongside our DevOps team and now I'm going deeper on running clusters myself. Also CI/CD with GitHub Actions, in a home lab for now.
 
 ### Certifications
 
