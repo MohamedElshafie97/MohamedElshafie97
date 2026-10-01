@@ -18,7 +18,7 @@ I look after the infrastructure that keeps a payments business running: Linux an
 
 ### Currently learning
 
-Docker, Kubernetes (working toward the CKA) and CI/CD with GitHub Actions. I'm building these in a home lab before claiming them as experience. Along the way I write Arabic-language reference guides for Linux, Docker, Kubernetes and CI/CD, because good Arabic material on these topics is still hard to find.
+Docker, Kubernetes (working toward the CKA) and CI/CD with GitHub Actions. I'm building these in a home lab before claiming them as experience.
 
 ### Certifications
 
