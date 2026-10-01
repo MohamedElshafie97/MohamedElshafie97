@@ -14,7 +14,7 @@ I look after the infrastructure that keeps a payments business running: Linux an
 - **Windows** – Active Directory, Group Policy, Windows Server administration
 - **Automation** – Ansible, Bash, PowerShell
 - **Containers** – Docker and Docker Compose
-- **Monitoring** – Prometheus and Grafana
+- **Monitoring** – Prometheus (federated across dev, staging and production), Alertmanager, Grafana
 - **Cloud** – Azure (IaaS, identity, hybrid with on-prem AD)
 
 ### Currently learning
@@ -30,6 +30,7 @@ Kubernetes (working toward the CKA) and CI/CD with GitHub Actions. I'm building 
 
 ### Repositories worth a look
 
+- [**prometheus-federation-monitoring**](https://github.com/MohamedElshafie97/prometheus-federation-monitoring) – the monitoring platform I built at work: a Prometheus per environment federated into a global server, Alertmanager routing to Google Chat and email through a small dispatcher, Grafana dashboards, Ansible deployment, and unit tests for the alert rules.
 - [**Ansible-Playbooks**](https://github.com/MohamedElshafie97/Ansible-Playbooks) – playbooks, roles, and Bash/PowerShell scripts for routine Linux and Windows administration: hardening, patching, backups with verification, time sync, monitoring agents, health reports.
 
 ### Tools
