@@ -13,12 +13,13 @@ I look after the infrastructure that keeps a payments business running: Linux an
 - **Linux** – RHEL/Rocky and Ubuntu/Debian; hardening, patching, service troubleshooting
 - **Windows** – Active Directory, Group Policy, Windows Server administration
 - **Automation** – Ansible, Bash, PowerShell
+- **Containers** – Docker and Docker Compose
 - **Monitoring** – Prometheus and Grafana
 - **Cloud** – Azure (IaaS, identity, hybrid with on-prem AD)
 
 ### Currently learning
 
-Docker, Kubernetes (working toward the CKA) and CI/CD with GitHub Actions. I'm building these in a home lab before claiming them as experience.
+Kubernetes (working toward the CKA) and CI/CD with GitHub Actions. I'm building these in a home lab before claiming them as experience.
 
 ### Certifications
 
