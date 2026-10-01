@@ -8,7 +8,8 @@ I look after the infrastructure that keeps a payments business running: Linux an
 
 - **Virtualization** – VMware vSphere/ESXi, Proxmox, and an ongoing evaluation of XCP-ng + Xen Orchestra as a vCenter replacement (migration testing, HA, backup integration)
 - **Databases** – MariaDB/MySQL replication with GTID, including a DR replica in a second site; day-to-day SQL Server administration
-- **Storage & backup** – TrueNAS and NAS-based backup targets, retention policies, and restore verification across two sites (HQ and a secondary branch)
+- **Storage & backup** – Dell EMC Unity, Dell EMC Data Domain and QNAP; backup targets, retention policies, and restore verification across two sites (HQ and a secondary branch)
+- **Hardware** – Dell PowerEdge and HPE ProLiant servers
 - **Linux** – RHEL/Rocky and Ubuntu/Debian; hardening, patching, service troubleshooting
 - **Windows** – Active Directory, Group Policy, Windows Server administration
 - **Automation** – Ansible, Bash, PowerShell
@@ -41,7 +42,9 @@ Docker, Kubernetes (working toward the CKA) and CI/CD with GitHub Actions. I'm b
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=white)
+![Dell EMC](https://img.shields.io/badge/Dell_EMC-007DB8?logo=dell&logoColor=white)
+![QNAP](https://img.shields.io/badge/QNAP-1E90FF?logo=qnap&logoColor=white)
+![HPE](https://img.shields.io/badge/HPE-01A982?logo=hewlettpackardenterprise&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
